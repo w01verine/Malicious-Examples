@@ -1,4 +1,4 @@
-# Created By: Tommie Navitskas 2023
+# Created By: w01verine 2023
 
 # The following is an example of what a Remote Access Trojan might look like
 
