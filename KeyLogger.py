@@ -1,4 +1,4 @@
-# Created By: Tommie Navitskas 2023
+# Created By: w01verine 2023
 
 # Keylogger will capture a victims keystrokes and send them back to the attacker.
 
