@@ -1,4 +1,4 @@
-// Created By: Tommie Navitskas 2023
+// Created By: w01verine 2023
 
 /* 
 The following is an example of a JavaScript snippet that injects code into a victim's webpage
