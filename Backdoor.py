@@ -1,4 +1,4 @@
-# Created By: Tommie Navitskas 2023
+# Created By: w01verine 2023
 
 # The following is an example of trojan that would enable an attacker to open a backdoor on a victim's computer and execute commands remotely.
 
